@@ -19,11 +19,12 @@ This project aims to convert handwritten text from scanned documents into digita
 - Improving accessibility by converting handwriting into machine-readable text.
 - Supporting educational tools for handwriting recognition.
 
-# Example Line Segmentation Image
+# Example 
+## Line Segmentation Image
 ![lines](lines.png)
 ![all_lines](all_lines.png)
 
-## Example Output
+## Output
 Other leading members are : Sir Henry Lintott fromthe Commonwealth Relations Office , Sir WilliamCorell-Barnes ( Colonial Office ) , Mr. G. R. Bell( Treasury ) , and Mr. G. H. Andrew ( Board of Trade ) .They will accompany Mr. Heath next month whenhe goes to Brussels , headquarters of the CommonMarket Commission , or whenever the Six decidenegotiations should be held.
 
 ## Digital Text
