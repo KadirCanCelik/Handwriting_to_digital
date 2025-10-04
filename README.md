@@ -22,3 +22,17 @@ This project aims to convert handwritten text from scanned documents into digita
 # Example Line Segmentation Image
 ![lines](lines.png)
 ![all_lines](all_lines.png)
+
+## Example Output
+Other leading members are : Sir Henry Lintott fromthe Commonwealth Relations Office , Sir WilliamCorell-Barnes ( Colonial Office ) , Mr. G. R. Bell( Treasury ) , and Mr. G. H. Andrew ( Board of Trade ) .They will accompany Mr. Heath next month whenhe goes to Brussels , headquarters of the CommonMarket Commission , or whenever the Six decidenegotiations should be held.
+
+## Digital Text
+Other leading members are: Sir Henry Lintott from the Commonwealth Relations
+Office, Sir William Corell-Barnes (Colonial Office), Mr. G. R. Bell (Treasury), and Mr.
+G. H. Andrew (Board of Trade). They will accompany Mr. Heath next month when
+he goes to Brussels, headquarters of the Common Market Commission, or wherever
+the Six decide negotiations should be held.
+
+## Levenshtein Score
+Levenshtein distance: 61  
+Similarity: 0.9097938144329897
