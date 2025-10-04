@@ -20,5 +20,5 @@ This project aims to convert handwritten text from scanned documents into digita
 - Supporting educational tools for handwriting recognition.
 
 # Example Line Segmentation Image
-(lines.png)
-(all_lines.png)
+![lines](lines.png)
+![all_lines](all_lines.png)
